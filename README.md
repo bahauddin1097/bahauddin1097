@@ -62,5 +62,3 @@ Beyond writing code, I enjoy analyzing complex engineering problems, designing e
 - Building **real-world projects**
 
 ---
-
-⭐ Thanks for visiting my profile!
